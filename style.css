@@ -1,0 +1,12 @@
+.menu{
+    display : flex ;
+    justify-content: space-between;
+    background-color: #1144FF;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color:#008888;
+}
+.body{
+    background-color: #FFFFFF;
+}
